@@ -5,14 +5,8 @@ By Vivek Pandey
 
 ## Summary:
 
-With Titanic dataset I analyzed passengers' survival chances by creating visualization Story and different graphs in 
-
-Tableau.Moreover, I have investigated factors (Gender, Passenger class and Age) which made people more likely to survive 
-
-using Bar graph, stacked bars, Pie charts and bubble charts.
-I can conclude that class & sex was major factor which made people more likely to survive,and being a female with upper 
-
-class had best chance of survival.
+With titanic dataset I analyzed passengers' survival chances by creating visualization Story and different graphs in tableau.Moreover, I have investigated factors (Gender, Passenger class and Age) which made people more likely to survive using Bar graph, stacked bars, Pie charts and bubble charts.
+I can conclude that class & sex was major factor which made people more likely to survive,and being a female with upper class had best chance of survival.
 
 ## Design:
 
