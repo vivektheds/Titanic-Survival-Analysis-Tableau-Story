@@ -2,7 +2,10 @@
 
 By Vivek Pandey
 
-[Initial Version of Tableau Story](https://public.tableau.com/views/TitanicSurvivalAnalysisTableauStory/TitanicSurvivalAnalysis?:embed=y&:display_count=yes&publish=yes)
+[Initial Version of Tableau Story]
+(https://public.tableau.com/views/TitanicAnalysisTest/Story1?:embed=y&:display_count=yes&publish=yes)
+
+[Final Version of Tableau Story](https://public.tableau.com/views/TitanicSurvivalAnalysisTableauStory/TitanicSurvivalAnalysis?:embed=y&:display_count=yes&publish=yes)
 
 ## Summary:
 
