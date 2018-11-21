@@ -23,3 +23,18 @@ In addition to this for continues variable age we have used line graph in order 
 
 In order to make visulazations interactive I have used filters in each dashboard to ficilitate to visualize data across different dimensons.
 I have used tooltips to provide additional details about dimensions/measures used in graphs.
+
+
+## Design:
+
+
+I have shared the initial version of my Tableau work and received the following feedbacks and I have built the final version based on these feedbacks.
+
+* Story background can be more attractive in order to make it more beautiful and eye catching.
+* Font and story navigator box can be smaller.
+* Adjust charts placement in 'Titanic survival by gender' tab of story so that chart of overall survival and chart of survival by gender should show hierarchical relationship.
+* In "survival by class and Gender" story-tab gender filter is not filtering data of "class/survival/gender"side by side bars, and also there is no filter option for class.
+* Chart and graph size can be smaller
+* For "Survival by age" bar graph range slider would be good to use.
+* Analysis of survival by age should be used in detail since age could be a bigger factor in survival rate.
+* Story Conclusion can present in better way.
