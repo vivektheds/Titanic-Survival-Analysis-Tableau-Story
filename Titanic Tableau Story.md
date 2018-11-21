@@ -25,7 +25,7 @@ In order to make visulazations interactive I have used filters in each dashboard
 I have used tooltips to provide additional details about dimensions/measures used in graphs.
 
 
-## Design:
+## Feedback:
 
 
 I have shared the initial version of my Tableau work and received the following feedbacks and I have built the final version based on these feedbacks.
